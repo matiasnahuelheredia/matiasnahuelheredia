@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Matias Nahuel Heredia
 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matias-nahuel-heredia-8ab35837/)
+
+- 🔭 I’m currently working on an Oil And Gas Company (YPF)
+- 🌱 I’m currently learning DevSecOps and Clean Architecture
+- 👯 I’m looking to collaborate on Angular proyects
+- 🤔 I’m looking for help with Cibersecurity Good practices
 <!--
 **matiasnahuelheredia/matiasnahuelheredia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
