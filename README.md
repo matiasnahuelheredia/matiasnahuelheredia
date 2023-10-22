@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matias-nahuel-heredia-8ab35837/)
 
 - 🔭 I’m currently working on an Oil And Gas Company (YPF)
-- 🌱 I’m currently working with DevSecOps ,CQRS , DDD,Hexagonal Architecture
+- 🌱 I’m currently working with DevSecOps ,CQRS,DDD,Hexagonal Architecture, Design Patterns
 - 👯 I’m looking to collaborate on Angular proyects
 - 🤔 I’m looking for help with Cibersecurity Good practices
 <!--
